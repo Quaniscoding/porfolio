@@ -18,19 +18,20 @@ const About = () => {
             <div></div>
           </div>
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-            <div className="sm:text-right text-4xl font-bold">
+            <div className="sm:text-left text-4xl font-bold">
               <p>
-                Hi. I'm Taminoturoko Briggs, nice to meet you. Please take a
-                look around.
+                Hi. I'm Ngô Văn Quân, nice to meet you. Please take a looks
+                around.
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                A software developer with experience in building Responsive and
-                Scalable Web apps. I am well-knowledged in UI/UX principles and
-                practices. In addition to software development, I am also a
-                technical writer--simplifying topics/concepts on the web.
+                Hi, I'm a fresher in React JS. I am very proud to learn and work
+                with React, a powerful and popular software engineering in the
+                field of user interface building. I am confident that I will
+                work well with React and will help me become a professional
+                front end developer in the future.
               </p>
             </div>
           </div>
